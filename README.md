@@ -22,7 +22,7 @@ This project started as a single script for a project in my Aerodynamics course 
 
 ## Here are assumptions made by the calculator...
 
-- Perfect gas
+- Ideal gas
 - Constant ratio of specific heats (γ = 1.4 by default)
 - Inviscid, 2D flow
 - Small-angle diamond airfoil model
